@@ -9,4 +9,14 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="green">#008000</color>
+
+    <color name="noteColor1">#B83E4E</color>
+    <color name="noteColor2">#0086b3</color>
+    <color name="noteColor3">#99e600</color>
+    <color name="noteColor4">#0080ff</color>
+    <color name="noteColor5">#ff00ff</color>
+    <color name="noteColor6">#009900</color>
+    <color name="noteColor7">#1f7a7a</color>
+    <color name="noteColor8">#e6e600</color>
+
 </resources>

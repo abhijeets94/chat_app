@@ -15,4 +15,5 @@
     <string name="chat_app_logo">chat app logo</string>
     <string name="login">LOG IN</string>
     <string name="signup">SIGN UP</string>
+    <string name="view_notes">view notes</string>
 </resources>
